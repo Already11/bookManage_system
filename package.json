@@ -6,9 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["bookManger_sys"],
+  "author": "joel",
   "license": "ISC",
+  "git-repository":"https://github.com/Already11/bookManage_system.git",
   "dependencies": {
     "art-template": "^4.13.1",
     "body-parser": "^1.18.3",

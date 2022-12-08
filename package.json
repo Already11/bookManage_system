@@ -12,8 +12,8 @@
   "git-repository":"https://github.com/Already11/bookManage_system.git",
   "dependencies": {
     "art-template": "^4.13.1",
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "mysql": "github:mysqljs/mysql"
   }
 }
